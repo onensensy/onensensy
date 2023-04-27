@@ -8,6 +8,7 @@ I'm a PHP backend developer currently perfecting my Laravel skills and building 
 
 -   PHP
 -   Laravel
+-   Tailwind CSS
 -   MySQL
 -   Bash scripting
 -   LaTeX
@@ -17,9 +18,6 @@ I'm a PHP backend developer currently perfecting my Laravel skills and building 
 ## 🌱 Learning
 
 -   Laravel livewire
--   React
--   TypeScript
--   Node.js
 
 ## 📫 Contact Me
 
