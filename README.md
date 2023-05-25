@@ -2,7 +2,7 @@
 
 ## 👋 Hello there!
 
-I'm a Fullstack developer, majoring in backend PHP currently perfecting my Laravel skills and building web applications with clean, maintainable code. As the Chief Developer and CEO at SensyCodez Technologies([@sensycodez-technologies](https://github.com/sensycodez-technologies)), I lead a team of talented developers to create innovative solutions that solve real-world problems. I also love experimenting with Bash scripts, LaTeX, and other cool tools to improve my workflow and productivity.
+I'm a Fullstack developer, majoring in backend PHP and building web applications with clean, maintainable code. I also love experimenting with Bash scripts, LaTeX, and other cool tools to improve my workflow and productivity.
 
 ## 🔨 Skills
 
