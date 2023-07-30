@@ -2,7 +2,7 @@
 
 ## 👋 Hello there!
 
-I'm a Fullstack developer, majoring in backend PHP and building web applications with clean, maintainable code. I also love experimenting with Bash scripts, LaTeX, and other cool tools to improve my workflow and productivity.
+I'm a Fullstack developer, majoring in backend PHP working with Laravel and building web applications with clean, maintainable code. I also love experimenting with Bash scripts, LaTeX, and other cool tools to improve my workflow and productivity.
 
 ## 🔨 Skills
 
