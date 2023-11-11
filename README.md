@@ -26,4 +26,4 @@ I'm a Fullstack developer, majoring in backend PHP working with Laravel and buil
 -   Email: [sensyonen@gmail.com](mailto:sensyonen@gmail.com)
 -   LinkedIn: [https://www.linkedin.com/in/onen-sensy-3734541a8/](https://www.linkedin.com/in/onen-sensy-3734541a8/)
 -   Twitter: [@osensy](https://twitter.com/osensy)
--   Website: [https://www.onensensy.serv00.com](https://www.onensensy.serv00.com)
+-   Website: [https://onensensy.serv00.net](https://onensensy.serv00.net)
