@@ -20,7 +20,7 @@ I'm a Fullstack developer, majoring in backend PHP working with Laravel and buil
 -   LaTeX
 -   Git
 -   AWS
--   Laravel livewire
+-   PlantUML
 
 ## 🌱 Learning
 - Dart
