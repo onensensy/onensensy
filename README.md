@@ -13,6 +13,7 @@ I'm a Fullstack developer, majoring in backend PHP working with Laravel and buil
      - Livewire
      - Filament
      - Tailwind CSS
+     - Package Development
 -   MySQL
 -   Alpine JS
 -   Bash scripting
