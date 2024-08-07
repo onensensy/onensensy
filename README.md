@@ -15,6 +15,7 @@ I'm a Fullstack developer, majoring in backend PHP working with Laravel and buil
      - Tailwind CSS
      - Package Development
 -   MySQL
+-   React JS
 -   Alpine JS
 -   Bash scripting
 -   LaTeX
