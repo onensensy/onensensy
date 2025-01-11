@@ -21,6 +21,7 @@ I'm a Fullstack developer, majoring in backend PHP working with Laravel and buil
 -   LaTeX
 -   Git
 -   AWS
+-   GCS
 -   PlantUML
 
 ## 🌱 Learning
